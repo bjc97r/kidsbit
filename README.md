@@ -1,6 +1,10 @@
 # Kids:Bit
 Kidspring Bible memory verse recitation helper for Micro:Bit
 
+(c) 2022 CC0 License
+Credit: Python programming by bjc97r, 3D cute-cat design & manufacturing by tws21r, kaping and R-jisu.
+Special thanks to tws21r, kaping and R-jisu for taking care of 3D printing process
+
 - Kids:Bit is a BBC Micro:Bit housed in a cute-cat, programmed for Kidspring
 - The sole purpose is to help Kidspring children engage in reciting the Bible memory verse of the month.
 
