@@ -15,7 +15,8 @@
 
 ## How to Use Your Kids:Bit
 <img src="https://user-images.githubusercontent.com/11816609/197115499-79471cde-d2cd-47fd-97b5-d4a952bd822a.png" width="400">
-- Slide button to the right to ON
+
+- Slide the power button at the back side to the right to power on.
 - Press [A] to show the current texts.
 - Press [B] to go to  the next texts.
 - Touch [eyes] to change the sound mode.
